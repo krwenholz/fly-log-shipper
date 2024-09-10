@@ -1,3 +1,6 @@
+> [!NOTE]  
+> I've forked this repo to add some convenience functions and bits to the Loki sink
+
 # fly-log-shipper
 
 Ship logs from fly to other providers using [NATS](https://docs.nats.io/) and [Vector](https://vector.dev/)
