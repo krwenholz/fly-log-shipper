@@ -22,6 +22,7 @@
   encoding.codec = "json"
 
   labels.event_provider = "{{event.provider}}"
+  labels.service_name = "{{service_name}}"
   labels.fly_region = "{{fly.region}}"
   labels.fly_app_name = "{{fly.app.name}}"
   labels.fly_app_instance = "{{fly.app.instance}}"
